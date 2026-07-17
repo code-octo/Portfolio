@@ -11,7 +11,7 @@ export const personalInfo = {
   location: "Kurunegala, Sri Lanka",
   github: "https://github.com/DevWith-Ashfak",
   linkedin: "https://linkedin.com/in/ashfak56",
-  resumeUrl: "/resume.pdf",
+  resumeUrl: "/api/resume",
   available: true,
 };
 
